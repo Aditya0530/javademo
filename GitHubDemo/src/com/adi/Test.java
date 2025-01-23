@@ -13,6 +13,10 @@ public class Test {
 
 		System.out.println("Hello");
 
+		Test t=new Test();
+		t.m1();
+		t.m2();
+		
 	}
 
 }
