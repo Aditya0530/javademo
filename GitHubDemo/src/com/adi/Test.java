@@ -11,7 +11,7 @@ public class Test {
 
 		Test t=new Test();
 		t.m1();
-		t.m2();
+		
 		
 	}
 
