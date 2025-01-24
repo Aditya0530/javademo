@@ -13,8 +13,8 @@ public class Test {
 		System.out.println("m3-method");
 	}
 
-	public void m4() {
-		System.out.println("m4-method");
+	public void m5() {
+		System.out.println("m5-method");
 
 	}
 
@@ -25,7 +25,7 @@ public class Test {
 		t.m1();
 		t.m2();
 		t.m3();
-		t.m4();
+		t.m5();
 
 	}
 
