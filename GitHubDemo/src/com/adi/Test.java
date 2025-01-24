@@ -25,6 +25,7 @@ public class Test {
 		t.m1();
 		t.m2();
 		t.m3();
+
 		t.m5();
 
 	}
