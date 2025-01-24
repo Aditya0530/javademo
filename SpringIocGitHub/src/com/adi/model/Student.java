@@ -23,6 +23,7 @@ public class Student {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	
 	@Override
 	public String toString() {
 		return "Student [rollno=" + rollno + ", name=" + name + ", address=" + address + "]";
