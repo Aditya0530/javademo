@@ -1,23 +1,23 @@
 package com.adi;
 
-public class Test 
-{
-	public void m1() 
-	{
+public class Test {
+	public void m1() {
 		System.out.println("m1-method");
 	}
-	public void m2() 
-	{
+
+	public void m2() {
 		System.out.println("m2-method");
 	}
-	public void m3() 
-	{
+
+	public void m3() {
 		System.out.println("m3-method");
 	}
-	public void m4() 
-	{
+
+	public void m4() {
 		System.out.println("m4-method");
+
 	}
+
 	public static void main(String[] args) {
 
 		System.out.println("Hello Main Method");
